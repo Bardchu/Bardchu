@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" alt="Bardchu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bardchu&show_icons=true&hide_border=true" />
+<img align="left" alt="Bardchu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bardchu&show_icons=true&hide_border=true&theme=dracula" />
 
 [website]: https://Bardchu.com
 [twitter]: https://twitter.com/Bardchu
