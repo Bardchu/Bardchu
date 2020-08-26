@@ -1,4 +1,4 @@
-### Hi there, I'm Bard - aka [Bardchu][website] 👋
+### Hi there, I'm Chu - aka [Bardchu][website] 👋
 
 ## I'm a Developer & Content Creator!
 - 🌱 I’m currently expanding my vision for more programming languages
