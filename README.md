@@ -2,7 +2,7 @@
 
 ## I'm a Developer & Content Creator!
 - 🌱 I’m currently expanding my vision for more programming languages
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
