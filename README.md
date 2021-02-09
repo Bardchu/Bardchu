@@ -1,4 +1,4 @@
-### Hi there, I'm Chu - aka [Bardchu][website] 👋
+### Hi there, I'm Bard - aka [bchu][website] 👋
 
 ## I'm a Developer & Content Creator!
 - 🌱 I’m currently expanding my vision for more programming languages
@@ -16,5 +16,5 @@
 
 <img align="left" alt="Bardchu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bardchu&show_icons=true&hide_border=true&theme=dracula" />
 
-[website]: https://Bardchu.com
-[twitter]: https://twitter.com/Bardchu
+[website]: https://bardchu.com
+[twitter]: https://twitter.com/bardchu
